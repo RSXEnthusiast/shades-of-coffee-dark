@@ -1,9 +1,9 @@
 :root {
 --color-tableBackground: #f5f2ef;
---color-tableBorder: white;
---color-checkboxText: white;
---color-checkboxToggleBackground: white;
---color-checkboxToggleDisabled: white;
+--color-tableBorder: #fff;
+--color-checkboxText: #fff;
+--color-checkboxToggleBackground: #fff;
+--color-checkboxToggleDisabled: #fff;
 --color-tableRowBackgroundHover: #ece5df;
 --color-pageBackground: #e2d8cf;
 --color-pillBackground: #f5f2ef;
@@ -32,7 +32,7 @@
 --color-pageBackgroundModalActive: #bcccdc;
 --color-pageBackgroundTopLeft: #e8ecf0;
 --color-pageBackgroundBottomRight: #b3d9ff;
---color-pageBackgroundLineTop: white;
+--color-pageBackgroundLineTop: #fff;
 --color-pageBackgroundLineMid: #e8ecf0;
 --color-pageBackgroundLineBottom: #b3d9ff;
 --color-pageText: #272630;
@@ -41,7 +41,7 @@
 --color-pageTextLink: #1980D4;
 --color-pageTextLinkLight: #66B5FA;
 
---color-cardBackground: white;
+--color-cardBackground: #fff;
 --color-cardBorder: #690CB0;
 
 --color-tableText: #272630;
@@ -61,7 +61,7 @@
 --color-sidebarItemBackgroundFailed: #F86A6A;
 --color-sidebarItemText: #D9E2EC;
 
---color-menuBackground: white;
+--color-menuBackground: #fff;
 --color-menuItemBackground: #F7FAFC;
 --color-menuItemBackgroundHover: #e8ecf0;
 --color-menuItemText: #102A43;
@@ -73,20 +73,20 @@
 --color-menuKeybindingText: #829AB1;
 --color-menuAutoCompleteBackground: #102A43;
 --color-menuAutoCompleteBackgroundHover: #486581;
---color-menuAutoCompleteText: white;
+--color-menuAutoCompleteText: #fff;
 --color-menuAutoCompleteTextHover: #C6F7E2;
 --color-menuAutoCompleteTextHeader: #FFF7C4;
---color-menuAutoCompleteItemTextHover: white;
---color-menuAutoCompleteItemText: white;
+--color-menuAutoCompleteItemTextHover: #fff;
+--color-menuAutoCompleteItemText: #fff;
 
---color-modalBackground: white;
---color-modalBorder: white;
+--color-modalBackground: #fff;
+--color-modalBorder: #fff;
 --color-mobileHeaderBackground: #9446ED;
 --color-mobileHeaderText: #F7FAFC;
 --color-mobileHeaderTextSubdued: #bdc5cf;
 --color-mobileHeaderTextHover: rgba(200, 200, 200, .15);
 --color-mobilePageBackground: #F7FAFC;
---color-mobileNavBackground: white;
+--color-mobileNavBackground: #fff;
 --color-mobileNavItem: #98a1ae;
 --color-mobileNavItemSelected: #8719E0;
 --color-mobileAccountShadow: #9fb3c8;
@@ -111,26 +111,26 @@
 --color-buttonMenuSelectedBackgroundHover: #F5E35D;
 --color-buttonMenuSelectedBorder: #FCF088;
 
---color-buttonPrimaryText: white;
---color-buttonPrimaryTextHover: white;
+--color-buttonPrimaryText: #fff;
+--color-buttonPrimaryTextHover: #fff;
 --color-buttonPrimaryBackground: #8719E0;
 --color-buttonPrimaryBackgroundHover: #A368FC;
 --color-buttonPrimaryBorder: #8719E0;
 --color-buttonPrimaryShadow: rgba(0, 0, 0, 0.3);
---color-buttonPrimaryDisabledText: white;
+--color-buttonPrimaryDisabledText: #fff;
 --color-buttonPrimaryDisabledBackground: #9fb3c8;
 --color-buttonPrimaryDisabledBorder: #9fb3c8;
 
 --color-buttonNormalText: #102A43;
 --color-buttonNormalTextHover: #102A43;
---color-buttonNormalBackground: white;
---color-buttonNormalBackgroundHover: white;
+--color-buttonNormalBackground: #fff;
+--color-buttonNormalBackgroundHover: #fff;
 --color-buttonNormalBorder: #D9E2EC;
 --color-buttonNormalShadow: rgba(0, 0, 0, 0.2);
---color-buttonNormalSelectedText: white;
+--color-buttonNormalSelectedText: #fff;
 --color-buttonNormalSelectedBackground: #1980D4;
 --color-buttonNormalDisabledText: #9fb3c8;
---color-buttonNormalDisabledBackground: white;
+--color-buttonNormalDisabledBackground: #fff;
 --color-buttonNormalDisabledBorder: #D9E2EC;
 
 --color-calendarText: #F7FAFC;
@@ -166,7 +166,7 @@
 --color-formLabelText: #1980D4;
 --color-formLabelBackground: #8BCAFD;
 --color-formInputBackground: #F7FAFC;
---color-formInputBackgroundSelected: white;
+--color-formInputBackgroundSelected: #fff;
 --color-formInputBackgroundSelection: #8719E0;
 --color-formInputTextReadOnlySelection: #F7FAFC;
 --color-formInputBorderSelected: #8719E0;
@@ -202,7 +202,7 @@
 --color-noteTagBackground: #e4d4ff;
 --color-noteTagBackgroundHover: #DAC4FF;
 --color-noteTagDefault: #e4d4ff;
---color-noteTagText: black;
+--color-noteTagText: #000;
 
 --color-budgetOtherMonth: #f6f8fa;
 --color-budgetHeaderCurrentMonth: #f6f8fa;
@@ -213,7 +213,7 @@
 --color-floatingActionBarText: #F7FAFC;
 
 --color-tooltipText: #102A43;
---color-tooltipBackground: white;
+--color-tooltipBackground: #fff;
 --color-tooltipBorder: #D9E2EC;
 
 --color-calendarCellBackground: #e8ecf0;
